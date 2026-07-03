@@ -239,19 +239,5 @@ The application is fully responsive with:
 - SQL injection prevention via ORM
 - Input validation with Pydantic
 
-## 📝 License
 
-This project was created for FlavorTown - HackClub
-
-## 🤝 Contributing
-
-This is a practice project. Feel free to fork and modify for your own learning purposes.
-
-## 📧 Contact
-
-For questions or feedback about this project, please open an issue in the repository.
-
----
-
-**Version**: 1.0.0  
-**Created**: January 2026
+-
